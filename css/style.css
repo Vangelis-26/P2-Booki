@@ -329,6 +329,26 @@ i.fa-solid.fa-info {
     object-fit: cover;
 }
 
+/****** Footer ******/
+
+footer {
+    background-color: var(--main-bg-color);
+    display: flex;
+    margin-top: 60px;
+}
+
+li {
+    list-style-type: none;
+    margin-top: 20px;
+}
+
+ul {
+    padding: 20px;
+    width: 33%;
+    font-size: 18px;
+    font-weight: 400;
+}
+
 /* Le code ci-dessous correspond à la version responsive uniquement */
 
 /****** Media queries ***********/
